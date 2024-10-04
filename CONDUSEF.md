@@ -1,6 +1,8 @@
 ## CONDUSEF
 
-### Temas:
+### Módulos:
 
-- Estudio diagnostico.
+- [Módulo 1]
+- [Módulo 2]
+- [Módulo 3]
 - 
